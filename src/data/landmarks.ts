@@ -53,7 +53,7 @@ export const landmarks: Landmark[] = [
       { year: "1928", title: "The Motograph", description: "The famous zipper news ticker is installed, projecting real-time headlines." },
       { year: "2009", title: "Pedestrian Plaza", description: "Major parts of Broadway through Times Square are permanently closed to car traffic." }
     ],
-    imageUrl: "https://images.unsplash.com/photo-1534430480872-3498386e7a0c?auto=format&fit=crop&w=1920&q=80",
+    imageUrl: "/images/times-square.jpg",
     mapCoords: { x: 42, y: 44 }
   },
   {
@@ -80,7 +80,7 @@ export const landmarks: Landmark[] = [
       { year: "1876", title: "Completion", description: "After two decades of intensive landscape sculpting, the park is completed." },
       { year: "1980", title: "The Conservancy", description: "The Central Park Conservancy is founded to restore the park from decay." }
     ],
-    imageUrl: "https://images.unsplash.com/photo-1532960401447-7dd05bef20b0?auto=format&fit=crop&w=1920&q=80",
+    imageUrl: "/images/central-park.jpg",
     mapCoords: { x: 50, y: 22 }
   },
   {
@@ -134,7 +134,7 @@ export const landmarks: Landmark[] = [
       { year: "1883", title: "Triumphant Opening", description: "Emily Roebling is the first to cross, carrying a rooster as a symbol of victory." },
       { year: "2021", title: "Pedestrian Upgrades", description: "A dedicated bike lane is added, freeing up the historic upper boardwalk." }
     ],
-    imageUrl: "https://images.unsplash.com/photo-1518235506717-e1ed3306a89b?auto=format&fit=crop&w=1920&q=80",
+    imageUrl: "/images/brooklyn-bridge.jpg",
     mapCoords: { x: 53, y: 75 }
   },
   {
@@ -161,7 +161,7 @@ export const landmarks: Landmark[] = [
       { year: "1939", title: "Art Deco Triumph", description: "The final rivet is driven, completing the historic 14 original Art Deco buildings." },
       { year: "2005", title: "Top of the Rock", description: "The legendary observation deck is completely renovated and reopened to the public." }
     ],
-    imageUrl: "https://images.unsplash.com/photo-1594122230689-45899d9e6f69?auto=format&fit=crop&w=1920&q=80",
+    imageUrl: "/images/rockefeller-center.jpg",
     mapCoords: { x: 46, y: 38 }
   },
   {
@@ -188,7 +188,7 @@ export const landmarks: Landmark[] = [
       { year: "1978", title: "Saved from Towers", description: "The Supreme Court blocks a plan to build an office tower directly on top of the station." },
       { year: "1998", title: "Great Restoration", description: "A massive cleanup removes decades of tobacco smoke and grime, revealing the bright blue ceiling." }
     ],
-    imageUrl: "https://images.unsplash.com/photo-1495954380655-01609180edd3?auto=format&fit=crop&w=1920&q=80",
+    imageUrl: "/images/grand-central-terminal.jpg",
     mapCoords: { x: 50, y: 46 }
   },
   {
@@ -215,7 +215,7 @@ export const landmarks: Landmark[] = [
       { year: "1906", title: "B. Altman & Co. Opens", description: "The first major department store opens on the avenue, starting the retail revolution." },
       { year: "1970", title: "Museum Mile Founded", description: "The cultural institutions coordinate to form a unified block of world-class museums." }
     ],
-    imageUrl: "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?auto=format&fit=crop&w=1920&q=80",
+    imageUrl: "/images/fifth-avenue.jpg",
     mapCoords: { x: 45, y: 34 }
   },
   {
@@ -242,7 +242,7 @@ export const landmarks: Landmark[] = [
       { year: "2014", title: "Grand Opening", description: "The finished tower welcomes its first commercial publishing tenants." },
       { year: "2015", title: "Observatory Debuts", description: "The state-of-the-art interactive observation deck opens to the public." }
     ],
-    imageUrl: "https://images.unsplash.com/photo-1502301197179-65228ab57f78?auto=format&fit=crop&w=1920&q=80",
+    imageUrl: "/images/one-world-trade-center.jpg",
     mapCoords: { x: 38, y: 72 }
   },
   {
@@ -269,7 +269,7 @@ export const landmarks: Landmark[] = [
       { year: "1988", title: "The Phantom Arrives", description: "Andrew Lloyd Webber's masterpiece begins its legendary, record-breaking run." },
       { year: "2015", title: "The Hamilton Phenomenon", description: "Lin-Manuel Miranda's musical debuts, redefining modern Broadway and cultural history." }
     ],
-    imageUrl: "https://images.unsplash.com/photo-1514306191717-452ec28c7814?auto=format&fit=crop&w=1920&q=80",
+    imageUrl: "/images/broadway.jpg",
     mapCoords: { x: 39, y: 40 }
   }
 ];
