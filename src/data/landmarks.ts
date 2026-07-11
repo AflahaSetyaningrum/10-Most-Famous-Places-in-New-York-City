@@ -26,7 +26,7 @@ export const landmarks: Landmark[] = [
       { year: "1886", title: "The Dedication", description: "Reassembled on Liberty Island, President Grover Cleveland dedicates the statue." },
       { year: "1986", title: "Centennial Restoration", description: "The torch is replaced with a gold-leafed version during a massive restoration." }
     ],
-    imageUrl: "images/statue-of-liberty.jpg",
+    imageUrl: "/images/statue-of-liberty.jpg",
     mapCoords: { x: 26, y: 88 }
   },
   {
