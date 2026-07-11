@@ -53,7 +53,7 @@ export const landmarks: Landmark[] = [
       { year: "1928", title: "The Motograph", description: "The famous zipper news ticker is installed, projecting real-time headlines." },
       { year: "2009", title: "Pedestrian Plaza", description: "Major parts of Broadway through Times Square are permanently closed to car traffic." }
     ],
-    imageUrl: "/images/times-square.jpg",
+    imageUrl: "/images/times-square.png",
     mapCoords: { x: 42, y: 44 }
   },
   {
@@ -215,7 +215,7 @@ export const landmarks: Landmark[] = [
       { year: "1906", title: "B. Altman & Co. Opens", description: "The first major department store opens on the avenue, starting the retail revolution." },
       { year: "1970", title: "Museum Mile Founded", description: "The cultural institutions coordinate to form a unified block of world-class museums." }
     ],
-    imageUrl: "/images/fifth-avenue.jpg",
+    imageUrl: "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?auto=format&fit=crop&w=1920&q=80",
     mapCoords: { x: 45, y: 34 }
   },
   {
