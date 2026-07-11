@@ -80,7 +80,7 @@ export const landmarks: Landmark[] = [
       { year: "1876", title: "Completion", description: "After two decades of intensive landscape sculpting, the park is completed." },
       { year: "1980", title: "The Conservancy", description: "The Central Park Conservancy is founded to restore the park from decay." }
     ],
-    imageUrl: "/images/statue-of-liberty.jpg",
+    imageUrl: "https://images.unsplash.com/photo-1532960401447-7dd05bef20b0?auto=format&fit=crop&w=1920&q=80",
     mapCoords: { x: 50, y: 22 }
   },
   {
